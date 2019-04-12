@@ -1,0 +1,13 @@
+{
+  "dependencies": {
+    "react": "^16.8.6"
+  },
+  "name": "BuukShelf",
+  "version": "0.1.0",
+  "description": "quicky deployable information gallery",
+  "main": "index.js",
+  "repository": "https://github.com/thirdeyeclub/BuukShelf.git",
+  "author": "No One",
+  "license": "MIT",
+  "private": true
+}
