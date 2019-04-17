@@ -13,3 +13,9 @@ How to:
 
 	npm install netlify-cli -g
 	netlify deploy
+	
+# UI Outline
+
+Super rough version, please be nice.
+
+![rough ui outline](Superroughui.png)
